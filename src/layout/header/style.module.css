@@ -1,0 +1,48 @@
+.header {
+    padding-top: 20px;
+}
+
+.text {
+    width: 195px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 130%;
+    color: #717171;
+}
+
+.logo_block {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.block {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.another {
+    display: flex;
+    align-items: center;
+    gap: 13px;
+}
+
+.price {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 130%;
+    color: #717171;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    gap: 13px;
+}
+
+.container {
+    max-width: 1250px;
+    margin-left: auto;
+    margin-right: auto;
+}

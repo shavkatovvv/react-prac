@@ -1,0 +1,44 @@
+.title {
+    font-weight: 700;
+    font-size: 52px;
+    color: white;
+    margin-bottom: 32px;
+}
+
+.title_block {
+    width: 510px;
+}
+
+.text {
+    width: 352px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 130%;
+    text-transform: uppercase;
+    color: white;
+    margin-bottom: 30px;
+}
+
+.box {
+    padding-top: 113px;
+    padding-bottom: 143px;
+    background-image: url(../assets/banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    max-width: 1250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.link {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 130%;
+    color: white;
+    background-color: #0e2149;
+    padding: 12px 50px;
+    text-decoration: none;
+}
